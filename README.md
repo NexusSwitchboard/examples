@@ -7,6 +7,6 @@ For more information about modules, checkout the documentation here:
 
 To get started with the Nexus application, navigate to the /app directory then...
 
-` > npm i`
-` > npm start`
+* ` > npm i`
+* ` > npm start`
 
