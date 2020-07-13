@@ -35,7 +35,9 @@ module.exports = {
   modules: {
     module: {
       path:"..",
-      config: {}
+      config: {
+        CONFIG_1: "Test"
+      }
     },
     "nexus-mod-liveness": {
       scope: "nexus-switchboard",

@@ -4,7 +4,7 @@
   "description": "A barebones nexus app",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js --inspect",
+    "dev": "NODE_ENV=development;DEBUG=*;node index.js --inspect",
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
